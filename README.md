@@ -66,11 +66,14 @@ Filtro / Filter
 
 ![image](https://github.com/user-attachments/assets/9c116c62-0512-49b9-a550-8eb41079f211)
 
+
+
 Hojas calculo / Spreadsheets
+
+![image](https://github.com/user-attachments/assets/8a689443-3ce5-4418-a8fa-e00e48395ad5)
+
 
 ![image](https://github.com/user-attachments/assets/0ffcc60c-c1a7-45f6-98d2-4cc467ee02ae)
 
-
-Spreadsheets
 
 ![image](https://github.com/user-attachments/assets/037a1a3a-f061-4072-8995-d488bb762a1f)
