@@ -51,19 +51,22 @@ Opcion Quimicos / Choice of agrochemicals
 
 Diagrama / Diagram
 
-![image](https://github.com/user-attachments/assets/304b32d8-47ab-49dd-9145-5ba122c20247)
+![image](https://github.com/user-attachments/assets/795110aa-d73a-40bf-9a94-92b51609fc30)
 
 
-fillout form data
 
-![image](https://github.com/user-attachments/assets/ce07093c-d0a5-4df9-ad77-2b8bcd475fac)
+Datos del form / form data
 
 
-Filter
+![image](https://github.com/user-attachments/assets/ccd25538-4319-41a0-a5c7-837164b42989)
+
+
+
+Filtro / Filter
 
 ![image](https://github.com/user-attachments/assets/9c116c62-0512-49b9-a550-8eb41079f211)
 
-Data spreadsheets
+Hojas calculo / Spreadsheets
 
 ![image](https://github.com/user-attachments/assets/0ffcc60c-c1a7-45f6-98d2-4cc467ee02ae)
 
