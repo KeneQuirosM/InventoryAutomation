@@ -1,24 +1,50 @@
 # Inventory Automation
 Automation Inventorys
 
-English Description
 
-This project leverages Make.com and Fillout.com to streamline inventory management for fertilizer tanks. A form collects the date and the type of tank used. The data is then split via a webhook and routed through a filter to populate specific Google Spreadsheets with the ingredients required for each tank's recipe. This automation significantly improves the speed and efficiency of inventory tracking.
+---
 
-Descripción en Español
+**Español:**
 
-Este proyecto utiliza Make.com y Fillout.com para optimizar la gestión de inventarios de tanques de fertilizante. Un formulario recoge la fecha y el tipo de tanque utilizado. Los datos se dividen mediante un webhook y se enrutan a través de un filtro para llenar hojas de cálculo específicas en Google Drive con los ingredientes necesarios para la receta de cada tanque. Esta automatización mejora significativamente la rapidez y eficiencia del seguimiento de inventarios.
+# Automatización del Inventario de Agroquímicos y Abonos en Floramo S.A.
+
+Este repositorio contiene el desarrollo de un sistema de automatización diseñado para optimizar el proceso de inventario de agroquímicos y abonos en la empresa Floramo S.A. Anteriormente, el inventario se realizaba manualmente, ingresando datos hoja por hoja, lo que resultaba en un proceso laborioso y propenso a errores. Con la implementación de este nuevo sistema, basado en un formulario desarrollado en Fillout, los registros de inventario se actualizan de manera inmediata en Google Spreadsheets. Este cambio no solo agiliza el proceso, sino que también lo hace más accesible y sencillo para los empleados, mejorando la eficiencia general de la operación. Las herramientas utilizadas para implementar esta solución incluyen Google Drive, Fillout y Make.com.
+
+---
+
+**Inglés:**
+
+# Automation of Agrochemical and Fertilizer Inventory at Floramo S.A.
+
+This repository contains the development of an automation system designed to optimize the inventory process for agrochemicals and fertilizers at Floramo S.A. Previously, the inventory was conducted manually, entering data sheet by sheet, which resulted in a laborious and error-prone process. With the implementation of this new system, based on a form developed in Fillout, inventory records are updated immediately in Google Spreadsheets. This change not only streamlines the process but also makes it more accessible and easier for employees, improving the overall efficiency of the operation. The tools used to implement this solution include Google Drive, Fillout, and Make.com.
+
+---
+
+Este texto es ideal para presentar el proyecto en un README de GitHub, ofreciendo una vista general clara y concisa en ambos idiomas. ¿Te gustaría agregar algo más?
+
+¿Hay algo más que te gustaría ajustar?
 
 # Form
 
 
-![image](https://github.com/user-attachments/assets/5adbe45a-1fad-4833-be53-f2444463b13d)
+Primera vista / First view
+
+
+![image](https://github.com/user-attachments/assets/8ad79288-28d6-4689-9c9d-db3f91a61cc1)
+
+Opcion Abonos / Choice of fertilizers
+![image](https://github.com/user-attachments/assets/c24b657b-7b67-452e-9eaa-1207c9051ff9)
+
+
+Opcion Quimicos / Choice of agrochemicals
+
+![image](https://github.com/user-attachments/assets/7838056a-3d8d-4409-93c0-bf6e736bd7ee)
 
 
 # Automation
 
 
-Diagram
+Diagrama / Diagram
 
 ![image](https://github.com/user-attachments/assets/304b32d8-47ab-49dd-9145-5ba122c20247)
 
