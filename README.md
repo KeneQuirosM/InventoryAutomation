@@ -67,6 +67,8 @@ Filtro / Filter
 ![image](https://github.com/user-attachments/assets/9c116c62-0512-49b9-a550-8eb41079f211)
 
 
+![image](https://github.com/user-attachments/assets/c6378893-1a22-43df-b76f-4279768906ee)
+
 
 Hojas calculo / Spreadsheets
 
