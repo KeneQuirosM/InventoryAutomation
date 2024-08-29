@@ -32,11 +32,16 @@ Primera vista / First view
 
 ![image](https://github.com/user-attachments/assets/8ad79288-28d6-4689-9c9d-db3f91a61cc1)
 
+
+
 Opcion Abonos / Choice of fertilizers
+
+
 ![image](https://github.com/user-attachments/assets/c24b657b-7b67-452e-9eaa-1207c9051ff9)
 
 
 Opcion Quimicos / Choice of agrochemicals
+
 
 ![image](https://github.com/user-attachments/assets/7838056a-3d8d-4409-93c0-bf6e736bd7ee)
 
