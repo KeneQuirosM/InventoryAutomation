@@ -1,6 +1,5 @@
 # Inventory Automation
-Automation Inventorys
-
+Kene Quiros Mora
 
 ---
 
