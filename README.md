@@ -6,3 +6,5 @@ This project leverages Make.com and Fillout.com to streamline inventory manageme
 
 Descripción en Español
 Este proyecto utiliza Make.com y Fillout.com para optimizar la gestión de inventarios de tanques de fertilizante. Un formulario recoge la fecha y el tipo de tanque utilizado. Los datos se dividen mediante un webhook y se enrutan a través de un filtro para llenar hojas de cálculo específicas en Google Drive con los ingredientes necesarios para la receta de cada tanque. Esta automatización mejora significativamente la rapidez y eficiencia del seguimiento de inventarios.
+
+![image](https://github.com/user-attachments/assets/69e9c96a-03e4-416d-a5f1-d7e4e7c8dda3)
