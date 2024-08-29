@@ -20,9 +20,6 @@ This repository contains the development of an automation system designed to opt
 
 ---
 
-Este texto es ideal para presentar el proyecto en un README de GitHub, ofreciendo una vista general clara y concisa en ambos idiomas. ¿Te gustaría agregar algo más?
-
-¿Hay algo más que te gustaría ajustar?
 
 # Form
 
