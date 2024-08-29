@@ -15,8 +15,24 @@ Form
 ![image](https://github.com/user-attachments/assets/5adbe45a-1fad-4833-be53-f2444463b13d)
 
 
-Automation
+# Automation
 
 
+Diagram
 
-![image](https://github.com/user-attachments/assets/69e9c96a-03e4-416d-a5f1-d7e4e7c8dda3)
+![image](https://github.com/user-attachments/assets/304b32d8-47ab-49dd-9145-5ba122c20247)
+
+
+fillout form data
+
+![image](https://github.com/user-attachments/assets/3773beac-2f6a-4626-b6fa-75973edb2595)
+
+
+Filter
+
+![image](https://github.com/user-attachments/assets/9c116c62-0512-49b9-a550-8eb41079f211)
+
+Data spreadsheets
+
+![image](https://github.com/user-attachments/assets/0ffcc60c-c1a7-45f6-98d2-4cc467ee02ae)
+
