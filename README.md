@@ -70,7 +70,7 @@ Filtro / Filter
 
 Hojas calculo / Spreadsheets
 
-![image](https://github.com/user-attachments/assets/8a689443-3ce5-4418-a8fa-e00e48395ad5)
+![image](https://github.com/user-attachments/assets/b00e05e0-6814-48e2-91e8-c77d8de6f632)
 
 
 ![image](https://github.com/user-attachments/assets/0ffcc60c-c1a7-45f6-98d2-4cc467ee02ae)
